@@ -43,8 +43,9 @@
    **Using the Web page**
    > Open **index.html** then you can view original webpage, then you can navigate to certain tabs required like Home which is _index.html_ itself and **About Us** which is navigated by _aboutus.html_
    > Similarly for **Solutions** it is _solutions.html_ and for **Contact Us** it is contactus.html
-   > Also there are some additional features added in the web page like _**Back to Top**_ which means go back to table of contents in the page. Along with that _Module Media_ link is also available to get navigated to a page containing different domains and plans.
-   > Also in the **About Us** page you can find _Submit you resume_ link also.
+   * Also there are some additional features added in the web page like _**Back to Top**_ which means go back to table of contents in the page
+   * Along with that _Module Media_ link is also available to get navigated to a page containing different domains and plans.
+   * Also in the **About Us** page you can find _Submit you resume_ link also.
    
  ### Need to know further details about the webpage Visit [**_Vecta Corp_** ](https://acw-group.com.hk/acw_distribution/events/VectaCorp/aboutus.htm)
 
