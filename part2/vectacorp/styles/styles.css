@@ -85,9 +85,6 @@ section.pricing >  div:last-of-type > h3 {
 p[id^="v"] {
   font-weight: bold;
 }
-a{
-  color:red;
-}
-h2{
+a,h2{
   color:red;
 }
