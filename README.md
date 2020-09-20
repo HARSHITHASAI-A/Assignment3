@@ -46,5 +46,8 @@
    * Also there are some additional features added in the web page like _**Back to Top**_ which means go back to table of contents in the page
    * Along with that _Module Media_ link is also available to get navigated to a page containing different domains and plans.
    * Also in the **About Us** page you can find _Submit you resume_ link also.
+
+  > This is about Vecta Corp web page and to know more about the website refer the link below.
    
  ### Need to know further details about the webpage Visit [**_Vecta Corp_** ](https://acw-group.com.hk/acw_distribution/events/VectaCorp/aboutus.htm)
+ 
